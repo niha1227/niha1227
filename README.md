@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**niha1227/niha1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there, I'm NIharika dernagula
+## Hi there, I'm NIharika dernagula
 
 Welcome to my GitHub profile! I'm an **engineering student** passionate about **Data Science, Web Development, and AI**. I love working on **projects** that solve real-world problems and continuously learning new technologies. 🚀
 
