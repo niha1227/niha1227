@@ -1,4 +1,4 @@
-## Hi there, I'm NIharika dernagula
+## Hi there, I'm NIHARIKA DERANGULA
 
 Welcome to my GitHub profile! I'm an **engineering student** passionate about **Data Science, Web Development, and AI**. I love working on **projects** that solve real-world problems and continuously learning new technologies. 🚀
 
